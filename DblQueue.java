@@ -1,13 +1,4 @@
-// File name: DblQueue.java
-// Author: Ashim Chand
-// userid: chanda
-// Email: ashimchand@vanderbilt.edu
-// Class: CS2201
-// Honor Statement: Will not use unfair means
-// Assignment Number: 6
-// Description: Queue Implimentation
-// Last Changed: 3/26/2024
-//
+
 
 public class DblQueue {
 
